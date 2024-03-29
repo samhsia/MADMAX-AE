@@ -1,0 +1,1 @@
+export PYTHONPATH='/private/home/samchsia/MADMAX-AE'
